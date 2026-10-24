@@ -1,5 +1,5 @@
-site_name: 澳洲国立大学毕业证书（ANU Diploma）官方样式规范与学术防伪特征解析
-site_url: https://voksds.github.io/anudip/
+site_name: 格里菲斯大学（Griffith University）学位证书外观设计与官方防伪机制探讨
+site_url: https://voksds.github.io/griffith/
 theme:
   name: material
   custom_dir: overrides
