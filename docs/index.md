@@ -2,7 +2,8 @@
 
 在办理**跨国签证**、**移民申请**、**海外留服认证**或**处理法律诉讼**时，很多曾频繁往返香港的申请人会被要求提供**香港出入境记录证明**（Statement of Travel Records）。为了让大家清晰了解这一权威文件的具体格式，本文将围绕**香港出入境记录证明样本**与**香港出入境记录证明样式图片**进行深度解析，并带来详尽的官方申领指南。
 
-<img width="527" height="800" alt="<img width="527" height="800" alt="香港出入境记录证明样本（香港出入境紀錄證明样式图片）" src="https://github.com/user-attachments/assets/f4ab8cbd-0084-4767-8ce2-4bcd660f9de9" />
+<img width="527" height="800" alt="香港出入境记录证明样本（香港出入境记录明样式图片" src="https://github.com/user-attachments/assets/ee329ffd-ce61-49bc-b0dd-f811b1f03c17" />
+
 
 ## 📸 香港出入境记录证明样本及样式图片解析
 
