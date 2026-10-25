@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '6 23 * * 4'
+    - cron: '16 5 * * 5'
 
 permissions:
   contents: write
